@@ -227,17 +227,17 @@ document.querySelectorAll('.about-photos').forEach(function (el) {
 
 const contentArray = [
     {
-        imagePath: 'Assets/images/JDM.png',
+        imagePath: 'assets/images/JDM.png',
         title: 'Genderless Kei - Japan\'s Hot',
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     },
     {
-        imagePath: 'Assets/images/image.png',
+        imagePath: 'assets/images/image.png',
         title: 'Better Strategy & Quality',
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     },
     {
-        imagePath: 'Assets/images/CLR.png',
+        imagePath: 'assets/images/CLR.png',
         title: 'Genderless Kei - Japan\'s Hot',
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     }
